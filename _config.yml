@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Does green space help restaurant succeed?"
+title: "What makes a restaurant succeed?"
 email:
 description: 
 twitter_username:
