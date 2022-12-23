@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "MUSA 550"
+title: "Does green space help restaurant succeed?"
 email:
-description: "Geospatial Data Science in Python"
+description: 
 twitter_username:
-github_username:
+github_username: "objqian"
 minimal_mistakes_skin: default
 search: true
 
@@ -55,22 +55,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Nick Hand"
+  name: "Shengqian Wang"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Master of Landscape Architecture, University of Pennsylvania"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://nickhand.dev"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:sqwang@upenn.edu
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ObjQIAN"
+
 
 footer:
   links:
@@ -79,10 +74,8 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ObjQIAN"
+
 
 # Defaults
 defaults:
